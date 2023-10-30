@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+![image](https://github.com/Tom047/Staking/assets/99247067/cc4d6313-1b92-46c8-94ea-1cbc3dbd7315)
